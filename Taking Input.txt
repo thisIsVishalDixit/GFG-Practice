@@ -1,0 +1,25 @@
+class Geeks{
+    
+    // Function to take input using Scanner class
+        static void IOFunction() {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt(); // Total number of inputs
+
+        while (t-- > 0) {
+            // Your code here
+            int a = sc.nextInt();    // Integer input
+            float b = sc.nextFloat(); // Float input
+            long c = sc.nextLong();   // Long input
+            int d = sc.nextInt();   // Integer input
+            sc.nextLine();            // Consume the newline character
+            String s = sc.nextLine(); // String input
+
+            // Print the inputs in new lines
+            System.out.println(a);
+            System.out.println(b);
+            System.out.println(c);
+            System.out.println(d);
+            System.out.println(s);
+        }
+    }
+}
