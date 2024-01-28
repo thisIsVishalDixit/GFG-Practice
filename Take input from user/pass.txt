@@ -1,0 +1,5 @@
+Mongodb atlas::  He!!0FromMy$!dE09
+
+mongodb+srv://mrsingh060698:<password>@cluster0.msbx3yu.mongodb.net/?retryWrites=true&w=majority
+
+mongodb+srv://mrsingh060698:He!!0FromMy$!dE09@cluster0.msbx3yu.mongodb.net/?retryWrites=true&w=majority
